@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690900468102",
+    "firebase_url": "https://mybudgetplanner-1f0f2.firebaseio.com",
+    "project_id": "mybudgetplanner-1f0f2",
+    "storage_bucket": "mybudgetplanner-1f0f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690900468102:android:9e7e613b398230ef776c07",
+        "android_client_info": {
+          "package_name": "com.shreyansh.mybudgetplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690900468102-5pvpafsmj6c4m5gs40qv1fghcn0f0du2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWY68WxPRx4Xq8muEaets5gShPuraLVik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690900468102-5pvpafsmj6c4m5gs40qv1fghcn0f0du2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
